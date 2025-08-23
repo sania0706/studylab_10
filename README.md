@@ -60,7 +60,7 @@ The codebase is organized to be modular and easy to navigate:
 You can read the full project documentation here:  
 [📘 Project Documentation](./docs/studylab_documentation.pdf)
 
-🔗 **Live Demo:** [View on Netlify](https://app.netlify.com/projects/mystudylab10)
+🔗 **Live Demo:** [mystudylab10.netlify.app]
 
 ### **Documentation and Contact**
 
