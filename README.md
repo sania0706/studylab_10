@@ -54,8 +54,16 @@ The codebase is organized to be modular and easy to navigate:
 * **3D Graphics:** `react-three-fiber`
 * **Routing:** `react-router-dom`
 * **State Management:** `useState` and `useMemo` hooks
+  
+## 📄 Project Documentation
+
+You can read the full project documentation here:  
+[📘 Project Documentation](./docs/studylab_documentation.pdf)
+
+🔗 **Live Demo:** [View on Netlify](mystudylab10.netlify.app)
 
 ### **Documentation and Contact**
+
 
 For an in-depth look at the design decisions and technical implementation, please visit the in-app Documentation page at `/documentation`.
 
