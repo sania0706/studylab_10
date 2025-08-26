@@ -36,6 +36,7 @@ To run the project locally, follow these steps:
     ```
 
 The application will be available at `http://localhost:8080`.
+🔗 **Live Demo:** `mystudylab10.netlify.app`.
 
 ### **Project Structure**
 
@@ -60,7 +61,7 @@ The codebase is organized to be modular and easy to navigate:
 You can read the full project documentation here:  
 [📘 Project Documentation](./docs/studylab_documentation.pdf)
 
-🔗 **Live Demo:** [mystudylab10.netlify.app]
+
 
 ### **Documentation and Contact**
 
